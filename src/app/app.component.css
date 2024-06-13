@@ -1,0 +1,25 @@
+
+div {
+  text-align: center;
+  font-family: "";
+    color: rgb(54, 54, 54);
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+img{
+    max-width: 400px;
+}
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
